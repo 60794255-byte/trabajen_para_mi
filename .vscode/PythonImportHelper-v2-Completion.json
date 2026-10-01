@@ -1,0 +1,20 @@
+[
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "activida_mey",
+        "description": "activida_mey",
+        "peekOfCode": "a = 20\nb = 5\nprint(\"Suma:\", a + b)\nprint(\"Resta:\", a - b)\nprint(\"Multiplicación:\", a * b)\nprint(\"División:\", a / b)",
+        "detail": "activida_mey",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "activida_mey",
+        "description": "activida_mey",
+        "peekOfCode": "b = 5\nprint(\"Suma:\", a + b)\nprint(\"Resta:\", a - b)\nprint(\"Multiplicación:\", a * b)\nprint(\"División:\", a / b)",
+        "detail": "activida_mey",
+        "documentation": {}
+    }
+]
